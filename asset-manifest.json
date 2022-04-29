@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Artemis6161/ranker_assig/static/css/main.a372b547.css",
-    "main.js": "/Artemis6161/ranker_assig/static/js/main.4ad23074.js",
-    "static/js/787.f038afde.chunk.js": "/Artemis6161/ranker_assig/static/js/787.f038afde.chunk.js",
-    "static/media/full hd_jpg_logo.jpg": "/Artemis6161/ranker_assig/static/media/full hd_jpg_logo.441abb540bd382ca8524.jpg",
-    "static/media/full hd_transparent_logo_white.png": "/Artemis6161/ranker_assig/static/media/full hd_transparent_logo_white.2ea332660b468256c34d.png",
-    "index.html": "/Artemis6161/ranker_assig/index.html",
-    "main.a372b547.css.map": "/Artemis6161/ranker_assig/static/css/main.a372b547.css.map",
-    "main.4ad23074.js.map": "/Artemis6161/ranker_assig/static/js/main.4ad23074.js.map",
-    "787.f038afde.chunk.js.map": "/Artemis6161/ranker_assig/static/js/787.f038afde.chunk.js.map"
+    "main.css": "/ranker_assig/static/css/main.a372b547.css",
+    "main.js": "/ranker_assig/static/js/main.a4f6b070.js",
+    "static/js/787.f038afde.chunk.js": "/ranker_assig/static/js/787.f038afde.chunk.js",
+    "static/media/full hd_jpg_logo.jpg": "/ranker_assig/static/media/full hd_jpg_logo.441abb540bd382ca8524.jpg",
+    "static/media/full hd_transparent_logo_white.png": "/ranker_assig/static/media/full hd_transparent_logo_white.2ea332660b468256c34d.png",
+    "index.html": "/ranker_assig/index.html",
+    "main.a372b547.css.map": "/ranker_assig/static/css/main.a372b547.css.map",
+    "main.a4f6b070.js.map": "/ranker_assig/static/js/main.a4f6b070.js.map",
+    "787.f038afde.chunk.js.map": "/ranker_assig/static/js/787.f038afde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a372b547.css",
-    "static/js/main.4ad23074.js"
+    "static/js/main.a4f6b070.js"
   ]
 }
